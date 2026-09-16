@@ -22,4 +22,4 @@ Course-project repositories hold write-ups only; source is available on request.
 
 ---
 
-**中文简介**：刘冰骋，悉尼 Foresight Analytics 的 AI 工程师，新南威尔士大学 IT（人工智能）硕士在读（2027 年 1 月毕业）。独立开发了基于 LLM 的基金风险监测系统 FRIS；此前在中建八局担任两年质量工程师。上方仓库为个人与课程项目展示。
+**中文简介**：刘冰骋，悉尼 Foresight Analytics 的 AI 工程师，新南威尔士大学 IT（人工智能）硕士在读（2027 年 1 月毕业）。独立开发了基于 LLM 的基金风险监测系统 FRIS；上方仓库为个人与课程项目展示。
