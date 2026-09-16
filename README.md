@@ -12,6 +12,10 @@ Hi, I'm Bingcheng (Bensen) Liu — AI engineer at [Foresight Analytics](https://
 - [pest-detection-yolov8](https://github.com/bensonliu-sudo/pest-detection-yolov8) — two-stage YOLOv8 detect-then-classify pipeline for 12 pest classes, mAP@0.5 0.77.
 - [Intelligent-Watermark-Pipeline](https://github.com/bensonliu-sudo/Intelligent-Watermark-Pipeline) — synthetic-watermark dataset generation and U-Net mask detection (prototype).
 
+**Paused / exploratory**
+
+- [ai-inspector](https://github.com/bensonliu-sudo/ai-inspector) — AI assistant for build-to-drawing site quality inspection, grown from my site-engineering years; location parsing and drawing indexing work, the drawing-reading step is beyond current multimodal models, so it is paused with the findings written up.
+
 Course-project repositories hold write-ups only; source is available on request.
 
 [LinkedIn](https://www.linkedin.com/in/bingcheng-liu-930a29385) · bingcheng.liu01@gmail.com
