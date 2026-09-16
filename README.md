@@ -1,4 +1,4 @@
-Hi, I'm Bingcheng (Bensen) Liu — AI engineer at [Foresight Analytics](https://foresight-analytics.com), Sydney, and a Master of IT (Artificial Intelligence) student at UNSW (graduating Jan 2027). Before software I spent two years as a site quality engineer on a high-rise project in Shanghai; I like building systems that sit close to the people who use them.
+Hi, I'm Bingcheng (Bensen) Liu — AI engineer at [Foresight Analytics](https://foresight-analytics.com), Sydney, and a Master of IT (Artificial Intelligence) student at UNSW (graduating Jan 2027). 
 
 **Current work — [FRIS, Foresight Risk Intelligence System](https://foresight-analytics.com/fris)**: sole developer of an LLM-driven pipeline that reads news and regulatory filings on 221 asset managers and turns them into quantified, traceable risk ratings for institutional clients (277k articles → 106k events → 1,501 tracked risk incidents). Proprietary; no public code.
 
