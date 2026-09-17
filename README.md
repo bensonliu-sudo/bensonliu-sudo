@@ -6,7 +6,7 @@ AI engineer in Sydney. I build LLM-driven data products end to end: ingestion pi
 
 <a href="https://foresight-analytics.com/fris"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/fris-logo-dark.svg">
-  <img src="assets/fris-logo-light.svg" alt="FRIS — Foresight Risk Intelligence System" height="56">
+  <img src="assets/fris-logo-light.svg" alt="FRIS — Foresight Risk Intelligence System" height="64">
 </picture></a>
 
 Sole developer of **[Foresight Risk Intelligence System (FRIS)](https://foresight-analytics.com/fris)** at [Foresight Analytics](https://foresight-analytics.com), Sydney.
