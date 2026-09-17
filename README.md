@@ -1,4 +1,4 @@
-Hi, I'm Bingcheng (Bensen) Liu — AI engineer at [Foresight Analytics](https://foresight-analytics.com), Sydney, and a Master of IT (Artificial Intelligence) student at UNSW (graduating Jan 2027). 
+Hi, I'm Bingcheng (Benson) Liu — AI engineer at [Foresight Analytics](https://foresight-analytics.com), Sydney, and a Master of IT (Artificial Intelligence) student at UNSW (graduating Jan 2027). 
 
 <a href="https://foresight-analytics.com/fris"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/fris-logo-dark.svg">
