@@ -1,4 +1,4 @@
-# Bingcheng (Bensen) Liu
+# Bingcheng (Benson) Liu
 
 AI engineer in Sydney. I build LLM-driven data products end to end: ingestion pipelines, structured model outputs, deterministic scoring, and the web front end that puts the result in front of a client. Master of IT (Artificial Intelligence) at UNSW, graduating January 2027. Before software I spent two years as a site quality engineer on high-rise construction in Shanghai, which still shapes how I think about inspection, evidence and traceability.
 
