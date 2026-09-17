@@ -9,7 +9,7 @@ AI engineer in Sydney. I build LLM-driven data products end to end: ingestion pi
   <img src="assets/fris-logo-light.svg" alt="FRIS — Foresight Risk Intelligence System" height="56">
 </picture></a>
 
-Sole developer of **[FRIS, Foresight Risk Intelligence System](https://foresight-analytics.com/fris)** at [Foresight Analytics](https://foresight-analytics.com), Sydney.
+Sole developer of **[Foresight Risk Intelligence System (FRIS)](https://foresight-analytics.com/fris)** at [Foresight Analytics](https://foresight-analytics.com), Sydney.
 
 FRIS is a B2B risk intelligence platform for institutional investors and due-diligence teams. It reads the news flow and regulatory filings that analysts used to scan by hand, extracts reputational and governance risk signals on target entities, and turns them into quantified, traceable risk ratings that can be followed over time. I own the product from requirements through to delivery: working out with analysts what the platform should report, designing the pipeline and scoring method, building the backend and front end, and presenting the results to clients. Proprietary; no public code.
 
