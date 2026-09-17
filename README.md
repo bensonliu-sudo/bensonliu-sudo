@@ -1,6 +1,6 @@
 # Bingcheng (Benson) Liu
 
-AI engineer in Sydney. I build LLM-driven data products end to end: ingestion pipelines, structured model outputs, deterministic scoring, and the web front end that puts the result in front of a client. Master of IT (Artificial Intelligence) at UNSW, graduating January 2027. Before software I spent two years as a site quality engineer on high-rise construction in Shanghai. Seeing how much of that work could be automated is what led me to pivot to AI.
+AI engineer in Sydney. I build LLM-driven data products end to end: ingestion pipelines, structured model outputs, deterministic scoring, and the web front end that puts the result in front of a client. Master of IT (Artificial Intelligence) at UNSW, graduating January 2027. Before software I spent two years as a site quality engineer on high-rise construction in Shanghai. Seeing how much of that work could be automated is what led me to pivot to software and AI.
 
 ## Current work
 
@@ -22,7 +22,7 @@ FRIS is a B2B risk intelligence platform for institutional investors and due-dil
 - [air-quality-forecasting](https://github.com/bensonliu-sudo/air-quality-forecasting) — multi-horizon pollutant forecasting, 90%-missing-series reconstruction, residual anomaly detection.
 - [pest-detection-yolov8](https://github.com/bensonliu-sudo/pest-detection-yolov8) — two-stage YOLOv8 detect-then-classify pipeline for 12 pest classes, mAP@0.5 0.77.
 - [Intelligent-Watermark-Pipeline](https://github.com/bensonliu-sudo/Intelligent-Watermark-Pipeline) — synthetic-watermark dataset generation and U-Net mask detection (prototype).
-- [ai-inspector](https://github.com/bensonliu-sudo/ai-inspector) — paused prototype: AI assistant for build-to-drawing site quality inspection; location parsing and drawing indexing work, the drawing-reading step is beyond current multimodal models, findings written up.
+- [ai-inspector](https://github.com/bensonliu-sudo/ai-inspector) — early-stage, part-time project: an AI assistant for build-to-drawing site quality inspection. Location parsing and drawing indexing are done; next step is packaging the drawing-reading workflow as a reusable model skill.
 
 Course-project repositories hold write-ups only; source is available on request.
 
